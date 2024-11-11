@@ -108,7 +108,6 @@ class NotesApp {
     this.contentInput.value = note.content;
     this.editor.classList.remove('hidden');
     this.notesListView.classList.add('hidden');
-    this.titleInput.focus();
     
     // Reset undo/redo stacks
     this.undoStack = [{
