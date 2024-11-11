@@ -1,4 +1,4 @@
-import { NotesApp } from './notes-app.js';
+import { NotesApp } from 'notes-app.js';
 
 document.addEventListener('DOMContentLoaded', () => {
   new NotesApp();
