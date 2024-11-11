@@ -1,6 +1,6 @@
 {
-  "name": "NotePad",
-  "short_name": "NotePad",
+  "name": "NotesApp",
+  "short_name": "NotesApp",
   "description": "A powerful note-taking app",
   "start_url": "./index.html",
   "scope": ".",
