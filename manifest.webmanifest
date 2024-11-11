@@ -1,6 +1,6 @@
 {
-  "name": "NotesApp",
-  "short_name": "NotesApp",
+  "name": "Quick Notes",
+  "short_name": "Quick Notes",
   "description": "A powerful note-taking app",
   "start_url": "./index.html",
   "scope": ".",
