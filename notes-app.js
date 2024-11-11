@@ -1,5 +1,5 @@
-import { NotesStorage } from './notes-storage.js';
-import { UndoRedoManager } from './undo-redo.js';
+import { NotesStorage } from 'notes-storage.js';
+import { UndoRedoManager } from 'undo-redo.js';
 
 export class NotesApp {
   constructor() {
