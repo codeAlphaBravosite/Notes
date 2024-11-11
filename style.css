@@ -196,7 +196,7 @@ h1 {
   resize: none;
   background: transparent;
   color: var(--text-color);
-  font-size: 1.125rem;
+  font-size: 1.3rem;
   line-height: 1.7;
   font-family: inherit;
 }
